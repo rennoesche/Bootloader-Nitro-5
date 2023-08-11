@@ -7,7 +7,7 @@ EFI and bootloader acer nitro an515-52 coffee lake with opencore based for HACKI
 | ------------------- | -------------------------------------------|
 | Computer model      | Acer Nitro 5 2018 - AN515-52 (GTX1050)     |
 | Processor           | Intel Core i5-8300H, 3900 MHz              |
-| Memory              | 16GB DDR4 2133MHz                          |
+| Memory              | 16GB DDR4 2666MHz                          |
 | Hard Disk           | PNY NVMe + WDC PC SN520                    |
 | Integrated Graphics | Intel UHD Graphics 630                     |
 | Sound Card          | Realtek ALC255                             |
